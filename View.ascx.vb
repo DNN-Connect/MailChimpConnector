@@ -115,28 +115,6 @@ Public Class View
         DotNetNuke.Framework.AJAX.RegisterScriptManager()
         LoadList()
 
-        If Not Page.IsPostBack Then
-            If IsSubscribed() Then
-                pnlSettings.Visible = True
-                pnlSettingsResult.Visible = False
-                pnlSubscribe.Visible = False
-                pnlSubscribeResult.Visible = False
-                pnlUnSubscribe.Visible = False
-                pnlUnSubscribeResult.Visible = False
-                pnlError.Visible = False
-            Else
-                pnlSettings.Visible = False
-                pnlSettingsResult.Visible = False
-                pnlSubscribe.Visible = True
-                pnlSubscribeResult.Visible = False
-                pnlUnSubscribe.Visible = False
-                pnlUnSubscribeResult.Visible = False
-                pnlError.Visible = False
-            End If
-        End If
-
-        ProcessTemplates()
-
     End Sub
 
     Protected Sub Page_Load(sender As Object, e As System.EventArgs) Handles Me.Load
@@ -525,11 +503,35 @@ Public Class View
                 _mergefields = output.result
             Else
                 ShowModuleSettingsNote()
+                Exit Sub
             End If
         Else
             ShowModuleSettingsNote()
+            Exit Sub
         End If
 
+
+        If Not Page.IsPostBack Then
+            If IsSubscribed() Then
+                pnlSettings.Visible = True
+                pnlSettingsResult.Visible = False
+                pnlSubscribe.Visible = False
+                pnlSubscribeResult.Visible = False
+                pnlUnSubscribe.Visible = False
+                pnlUnSubscribeResult.Visible = False
+                pnlError.Visible = False
+            Else
+                pnlSettings.Visible = False
+                pnlSettingsResult.Visible = False
+                pnlSubscribe.Visible = True
+                pnlSubscribeResult.Visible = False
+                pnlUnSubscribe.Visible = False
+                pnlUnSubscribeResult.Visible = False
+                pnlError.Visible = False
+            End If
+        End If
+
+        ProcessTemplates()
 
     End Sub
 

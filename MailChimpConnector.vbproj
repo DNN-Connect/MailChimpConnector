@@ -35,7 +35,7 @@
     <DefineDebug>false</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\bin\</OutputPath>
+    <OutputPath>..\..\..\bin\</OutputPath>
     <DocumentationFile>Connect.Modules.MailChimpConnector.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
@@ -125,6 +125,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="License.txt" />
+    <Content Include="Licenses\PerceptiveMCAPI.txt" />
     <Content Include="module.css" />
     <Content Include="ReleaseNotes.txt" />
     <Content Include="Settings.ascx" />

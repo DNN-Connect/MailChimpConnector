@@ -41,7 +41,7 @@
      <SourceInclude Include="**\*.txt" Exclude="**\obj\**;**\_ReSharper*\**;" />
      <SourceInclude Include="**\images\**" />
      <SourceInclude Include="**\*.vb" />
-	 <SourceInclude Include="**\Packages\**" />
+	   <SourceInclude Include="**\Packages\**" />
      <SourceInclude Include="**\*.vb.designer" />
      <SourceInclude Include="**\*.vbproj" />
      <SourceInclude Include="**\*.targets" />
@@ -66,6 +66,7 @@
    </CreateItem>
 
    <Copy SourceFiles="$(MSBuildDnnBinPath)\$(AssemblyName).dll" DestinationFolder="$(MSBuildProjectDirectory)\Package\bin"/>
+   <Copy SourceFiles="$(MSBuildDnnBinPath)\PerceptiveMCAPI.dll" DestinationFolder="$(MSBuildProjectDirectory)\Package\bin"/>
    <Copy SourceFiles="@(SqlDataProviderFiles)" DestinationFolder="$(MSBuildProjectDirectory)\Package\%(RecursiveDir)" />
    <Copy SourceFiles="@(PackageManifestFiles)" DestinationFolder="$(MSBuildProjectDirectory)\Package" />
    <Copy SourceFiles="@(PackageTxtFiles)" DestinationFolder="$(MSBuildProjectDirectory)\Package" />

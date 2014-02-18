@@ -78,6 +78,10 @@
               <name>Connect.Modules.MailChimpConnector.dll</name>
               <path>bin</path>
             </assembly>
+            <assembly>
+              <name>PerceptiveMCAPI.dll</name>
+              <path>bin</path>
+            </assembly>            
           </assemblies>
         </component>
       </components>
