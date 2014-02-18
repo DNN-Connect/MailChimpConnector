@@ -1,0 +1,19 @@
+<div class="dnnForm dnnClear">
+
+    <div class="dnnFormItem">
+      [LABEL:UnSubscribeNote]
+    </div>
+
+    <div class="dnnFormItem">
+      [MERGE:EMAIL:LABEL]
+      [MERGE:EMAIL:CONTROL]
+      [MERGE:EMAIL:REQUIRED]
+    </div>
+
+    <div class="dnnActions">
+      <ul>
+		<li>[BUTTON:UnSubscribe]</li>
+	  </ul>
+    </div>
+
+</div>

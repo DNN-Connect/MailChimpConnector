@@ -1,0 +1,9 @@
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\bin\Connect.Modules.MailChimpConnector.dll
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\bin\Connect.Modules.MailChimpConnector.pdb
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\bin\Connect.Modules.MailChimpConnector.xml
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\Connect\MailChimpConnector\obj\Debug\Connect.Modules.MailChimpConnector.dll
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\Connect\MailChimpConnector\obj\Debug\Connect.Modules.MailChimpConnector.xml
+D:\Development\Websites\dev_DNNConnect\wwwRoot\DesktopModules\Connect\MailChimpConnector\obj\Debug\Connect.Modules.MailChimpConnector.pdb
+D:\Development\Websites\dev_DNNConnect\wwwRoot\bin\Connect.Modules.MailChimpConnector.dll
+D:\Development\Websites\dev_DNNConnect\wwwRoot\bin\Connect.Modules.MailChimpConnector.pdb
+D:\Development\Websites\dev_DNNConnect\wwwRoot\bin\Connect.Modules.MailChimpConnector.xml

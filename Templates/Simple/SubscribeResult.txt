@@ -1,0 +1,3 @@
+<div class="dnnClear">
+	<h3>Wonderful!</h3><p>You have been subscribed to the list, see you soon!</p>
+</div>

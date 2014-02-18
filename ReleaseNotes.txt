@@ -1,0 +1,10 @@
+﻿<h3>MailChimp Connector</h3>
+<hr/>
+<div class="License">
+	<p class="Owner">
+		<b>Version 00.00.01</b><br /><br />
+	</p>
+	<p>Initial release</p>
+
+	
+</div>

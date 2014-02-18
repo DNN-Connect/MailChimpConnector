@@ -1,0 +1,12 @@
+<div class="dnnForm dnnClear">
+    
+	<p>Great! You're subscribed to our newsletter list already. You'll receive email updates every once in a while - or whenever we feel there is somethin really exciting that we think you should know.</p>
+	<p>Of course you may unsubscribe from the list any time</p>
+    
+    <div class="dnnActions">
+      <ul>
+		<li>[BUTTON:UnSubscribe]</li>
+	  </ul>
+    </div>
+
+</div>

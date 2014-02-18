@@ -1,0 +1,427 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Connect.Modules.MailChimpConnector
+</name>
+</assembly>
+<members>
+<member name="F:Connect.Modules.MailChimpConnector.Templates.plTheme">
+	<summary>
+plTheme control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.drpThemes">
+	<summary>
+drpThemes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.cmdCopySelected">
+	<summary>
+cmdCopySelected control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.cmdDeleteSelected">
+	<summary>
+cmdDeleteSelected control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.pnlLocales">
+	<summary>
+pnlLocales control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.plLocale">
+	<summary>
+plLocale control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.drpLocales">
+	<summary>
+drpLocales control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.plUseTheme">
+	<summary>
+plUseTheme control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.chkUseTheme">
+	<summary>
+chkUseTheme control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.pnlTemplateName">
+	<summary>
+pnlTemplateName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.plTemplateName">
+	<summary>
+plTemplateName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtTemplateName">
+	<summary>
+txtTemplateName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.MailChimpTemplatesTabs">
+	<summary>
+MailChimpTemplatesTabs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblFormSubscribe">
+	<summary>
+lblFormSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblFormSubscribeResult">
+	<summary>
+lblFormSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblUnSubscribe">
+	<summary>
+lblUnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblUnSubscribeResult">
+	<summary>
+lblUnSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblSettings">
+	<summary>
+lblSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.lblSettingsResult">
+	<summary>
+lblSettingsResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtFormSubscribe">
+	<summary>
+txtFormSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtFormSubscribeResult">
+	<summary>
+txtFormSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtUnSubscribe">
+	<summary>
+txtUnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtUnSubscribeResult">
+	<summary>
+txtUnSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtSettings">
+	<summary>
+txtSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.txtSettingsResult">
+	<summary>
+txtSettingsResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.cmdUpdateSettings">
+	<summary>
+cmdUpdateSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Templates.cmdCancel">
+	<summary>
+cmdCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlModuleSettings">
+	<summary>
+pnlModuleSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.lblConfigure">
+	<summary>
+lblConfigure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlError">
+	<summary>
+pnlError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlSubscribe">
+	<summary>
+pnlSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlSubscribeResult">
+	<summary>
+pnlSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlUnSubscribe">
+	<summary>
+pnlUnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlUnSubscribeResult">
+	<summary>
+pnlUnSubscribeResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlSettings">
+	<summary>
+pnlSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.View.pnlSettingsResult">
+	<summary>
+pnlSettingsResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblApiKey">
+	<summary>
+lblApiKey control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.txtApiKey">
+	<summary>
+txtApiKey control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.cmdLoadLists">
+	<summary>
+cmdLoadLists control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblList">
+	<summary>
+lblList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.drpLists">
+	<summary>
+drpLists control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblUseDoubleOptIn">
+	<summary>
+lblUseDoubleOptIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.chkUseDoubleOptIn">
+	<summary>
+chkUseDoubleOptIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblSendWelcomeEmailOnSubscribe">
+	<summary>
+lblSendWelcomeEmailOnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.chkSendWelcomeEmailOnSubscribe">
+	<summary>
+chkSendWelcomeEmailOnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblDeleteMemberOnUnsubscribe">
+	<summary>
+lblDeleteMemberOnUnsubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.chkDeleteMemberOnUnsubscribe">
+	<summary>
+chkDeleteMemberOnUnsubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblSendGoodbyEmailOnUnSubscribe">
+	<summary>
+lblSendGoodbyEmailOnUnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.chkSendGoodbyEmailOnUnSubscribe">
+	<summary>
+chkSendGoodbyEmailOnUnSubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.lblSendAdminNotificationOnUnsubscribe">
+	<summary>
+lblSendAdminNotificationOnUnsubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Connect.Modules.MailChimpConnector.Settings.chkSendAdminNotificationOnUnsubscribe">
+	<summary>
+chkSendAdminNotificationOnUnsubscribe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
