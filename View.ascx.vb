@@ -695,13 +695,13 @@ Public Class View
                                         If Not String.IsNullOrEmpty(Localization.GetString("Label_" & item.tag, LocalResourceFile)) Then
                                             strLabelText = Localization.GetString("Label_" & item.tag, LocalResourceFile)
                                         Else
-                                            strLabelText = strKey
+                                            strLabelText = item.name
                                         End If
 
                                         If Not String.IsNullOrEmpty(Localization.GetString("Label_" & item.tag & ".Help", LocalResourceFile)) Then
                                             strHelpText = Localization.GetString("Label_" & item.tag & ".Help", LocalResourceFile)
                                         Else
-                                            strHelpText = strKey
+                                            strHelpText = item.name
                                         End If
 
                                         Dim oControl As New System.Web.UI.Control
@@ -712,8 +712,6 @@ Public Class View
                                         dnnLabel.ID = Target.ID & "_RESX_" & item.tag
 
                                         Target.Controls.Add(dnnLabel)
-
-
 
                                     ElseIf strType.ToLower = "required" Then
 
